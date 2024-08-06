@@ -14,6 +14,5 @@ Installation instructions
 Usage instructions
 File structure of the project
 
-milestone 3.py has all of the code at the moment
+milestone 3.py updated for max number of checks, and word helper
 License information
-Licensed by AICore
